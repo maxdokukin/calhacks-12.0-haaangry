@@ -1,3 +1,4 @@
 # Haaangry Monorepo
 .DS_Store
 .idea/
+.venv/
